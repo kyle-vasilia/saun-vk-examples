@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Vasilia"
+	],
+	"copyright": "Copyright © 2020, Vasilia",
+	"dependencies": {
+		"bindbc-sdl": "~>0.19.1",
+		"erupted" : {"path" : "erupted"}
+	},
+	"versions": ["SDL_206"],
+	"description": "Vulkan erupted bindings testing",
+	"license": "MIT",
+	"name": "saun-vk-examples"
+}
